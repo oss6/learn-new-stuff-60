@@ -3,4 +3,5 @@ Everyday learning new stuff for 60 days. Topics including theoretical computer s
 
 Following are the topics covered by this project
 
-- [Day 1: webpack](day-01-webpack/)
+- [Day 1: Webpack](day-01-webpack/)
+- [Day 2: React](day-02-react/)
