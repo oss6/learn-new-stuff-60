@@ -1,0 +1,22 @@
+#todos-container {
+  width: 500px;
+  margin: 30px auto;
+}
+
+input {
+  display: block;
+  margin: 0 auto;
+}
+
+.todo-items li {
+  position: relative;
+  display: block;
+  list-style: none;
+  border: 1px solid #000;
+}
+
+.delete-todo {
+  display: inline-block;
+  position: absolute;
+  right: 0;
+}
