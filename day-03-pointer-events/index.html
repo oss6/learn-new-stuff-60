@@ -1,0 +1,49 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Pointer Events</title>
+
+    <script type="text/javascript">
+
+      function mouseDownEventHandler(event) {
+        document.getElementById('mouse-status').innerHTML += 'Mouse Down<br />';
+      }
+
+      function mouseUpEventHandler(event) {
+        document.getElementById('mouse-status').innerHTML += 'Mouse Up<br />';
+      }
+
+      function pointerDownEventHandler(event) {
+        document.getElementById('pointer-status').innerHTML +=
+                'PointerId:' + event.pointerId +
+                ' of pointerType:' + event.pointerType + ' Down<br />';
+      }
+
+      function pointerUpEventHandler(event) {
+        document.getElementById('pointer-status').innerHTML +=
+                'PointerId:' + event.pointerId +
+                ' of pointerType:' + event.pointerType + ' Up<br />';
+      }
+
+      function init() {
+        document.addEventListener('mousedown', mouseDownEventHandler, false);
+        document.addEventListener('mouseup', mouseUpEventHandler, false);
+
+        document.addEventListener('pointerdown', pointerDownEventHandler, false);
+        document.addEventListener('pointerup', pointerUpEventHandler, false);
+      }
+
+      window.onload = init;
+    </script>
+  </head>
+  <body>
+    <p>Click, touch or tap</p>
+    <table>
+        <tr>
+            <td style="vertical-align:top; width:30%;"><div id="mouse-status"></div></td>
+            <td style="vertical-align:top; width:40%;"><div id="pointer-status"></div></td>
+        </tr>
+    </table>
+  </body>
+</html>

@@ -5,3 +5,4 @@ Following are the topics covered by this project
 
 - [Day 1: Webpack](day-01-webpack/)
 - [Day 2: React](day-02-react/)
+- [Day 3: Pointer Events](day-03-pointer-events/)
