@@ -8,3 +8,5 @@ Following are the topics covered by this project
 - [Day 3: Pointer Events](day-03-pointer-events/)
 - [Day 4: HTTP CORS](day-03-http-cors/)
 - [Day 5: Mongoose](day-05-mongoose/)
+- [Day 6: SVG & React](day-06-svg-react/)
+- [Day 7: Atom snippets](day-07-atom-snippets/)
