@@ -10,3 +10,5 @@ Following are the topics covered by this project
 - [Day 5: Mongoose](day-05-mongoose/)
 - [Day 6: SVG & React](day-06-svg-react/)
 - [Day 7: Atom snippets](day-07-atom-snippets/)
+- [Day 8: CSS tricks](day-08-css-tricks/)
+- [Day 9: Pipeline operator in ESNext](day-09-pipeline-operator/)
