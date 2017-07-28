@@ -12,3 +12,6 @@ Following are the topics covered by this project
 - [Day 7: Atom snippets](day-07-atom-snippets/)
 - [Day 8: CSS tricks](day-08-css-tricks/)
 - [Day 9: Pipeline operator in ESNext](day-09-pipeline-operator/)
+- [Day 10: Web assembly](day-10-web-assembly/)
+- [Day 11: Twelve Factor App](day-11-twelve-factor-app/)
+- [Day 12: The Evolution of Trust](day-12-the-evolution-of-trust/)
