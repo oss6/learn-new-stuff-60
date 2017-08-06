@@ -15,3 +15,5 @@ Following are the topics covered by this project
 - [Day 10: Web assembly](day-10-web-assembly/)
 - [Day 11: Twelve Factor App](day-11-twelve-factor-app/)
 - [Day 12: The Evolution of Trust](day-12-the-evolution-of-trust/)
+- [Day 13: A Functional Programmer’s Introduction to JavaScript](day-13-fp-intro-js/)
+- [Day 14: Useful git stuff](day-14-useful-git-stuff/)
