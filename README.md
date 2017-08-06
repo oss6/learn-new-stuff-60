@@ -17,3 +17,4 @@ Following are the topics covered by this project
 - [Day 12: The Evolution of Trust](day-12-the-evolution-of-trust/)
 - [Day 13: A Functional Programmer’s Introduction to JavaScript](day-13-fp-intro-js/)
 - [Day 14: Useful git stuff](day-14-useful-git-stuff/)
+- [Day 15: Gulp Component Library](day-15-gulp-component-library/)
