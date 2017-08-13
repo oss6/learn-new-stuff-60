@@ -20,3 +20,7 @@ Following are the topics covered by this project
 - [Day 15: Gulp Component Library](day-15-gulp-component-library/)
 - [Day 16: Web Performance](day-16-web-performance/)
 - [Day 17: Progressive Web App](day-17-pwa/)
+- [Day 18: Link Building](day-18-link-building/)
+- [Day 19: Cron](day-19-cron/)
+- [Day 20: Laravel Service Container](day-20-laravel-service-container/)
+- [Day 21: Interesting Commands](day-21-interesting-commands)
