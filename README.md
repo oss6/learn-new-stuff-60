@@ -27,5 +27,6 @@ Following are the topics covered by this project
 
 ## To add
 
+- gitflow
 - Supervisord
 - Nginx
