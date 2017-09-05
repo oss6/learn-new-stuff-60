@@ -24,3 +24,8 @@ Following are the topics covered by this project
 - [Day 19: Cron](day-19-cron/)
 - [Day 20: Laravel Service Container](day-20-laravel-service-container/)
 - [Day 21: Interesting Commands](day-21-interesting-commands)
+
+## To add
+
+- Supervisord
+- Nginx
